@@ -1,0 +1,13 @@
+food_id,name,calories,protein,carbs,fat,meal_type
+1,Oatmeal with banana,350,12,60,8,breakfast
+2,Greek yogurt bowl,280,18,30,6,breakfast
+3,Boiled eggs + toast,320,20,28,12,breakfast
+4,Chicken rice bowl,520,38,65,12,lunch
+5,Salmon salad,480,35,25,24,lunch
+6,Tofu veggie stir-fry,450,22,55,14,lunch
+7,Lean beef + sweet potato,560,42,50,18,dinner
+8,Shrimp veggie soup,360,28,30,10,dinner
+9,Grilled chicken + veggies,420,40,18,14,dinner
+10,Apple,95,0,25,0,snack
+11,Almonds (30g),175,6,6,15,snack
+12,Protein shake,220,25,12,6,snack
