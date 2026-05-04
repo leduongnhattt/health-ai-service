@@ -1,0 +1,11 @@
+food_id,name,serving_g,calories_per_serving,protein_g_per_serving,carb_g_per_serving,fat_g_per_serving,meal_type,tags,allergens
+1,Oatmeal with banana,300,350,12,60,8,breakfast,"high_carb,vegetarian",""
+2,Greek yogurt bowl,250,280,18,30,6,breakfast,"high_protein,vegetarian","milk"
+3,Boiled eggs + toast,220,320,20,28,12,breakfast,"high_protein","egg,gluten"
+4,Chicken rice bowl,350,520,38,65,12,lunch,"high_protein",""
+5,Salmon salad,320,480,35,25,24,lunch,"low_carb,high_protein","fish"
+6,Tofu veggie stir-fry,320,450,22,55,14,lunch,"vegetarian","soy"
+7,Lean beef + sweet potato,380,560,42,50,18,dinner,"high_protein",""
+8,Shrimp veggie soup,350,360,28,30,10,dinner,"low_carb","shellfish"
+9,Grilled chicken + veggies,340,420,40,18,14,dinner,"low_carb,high_protein",""
+10,Almonds (30g),30,175,6,6,15,snack,"low_carb","tree_nut"

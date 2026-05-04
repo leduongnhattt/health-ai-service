@@ -65,9 +65,9 @@ class HealthAnalysis(BaseModel):
     recommendedCalories: int
     macronutrients: Macronutrients
     healthStatus: str
-    healthRisks: List[str]
-    healthInsights: List[str]
-    recommendations: List[str]
+    healthRisks: List[str] = Field(default_factory=list)
+    healthInsights: List[str] = Field(default_factory=list)
+    recommendations: List[str] = Field(default_factory=list)
 
 
 class ExerciseRecommendation(BaseModel):
@@ -76,16 +76,16 @@ class ExerciseRecommendation(BaseModel):
     duration: str
     frequency: str
     difficultyLevel: str
-    benefits: List[str]
+    benefits: List[str] = Field(default_factory=list)
     tutorialLink: str
     equipment: str
-    instructions: List[str]
+    instructions: List[str] = Field(default_factory=list)
 
 
 class FoodRecommendation(BaseModel):
     category: str
-    eat: List[str]
-    avoid: List[str]
+    eat: List[str] = Field(default_factory=list)
+    avoid: List[str] = Field(default_factory=list)
     benefits: Optional[str] = None
 
 
@@ -104,41 +104,19 @@ class MealPlan(BaseModel):
     dailyTotalCalories: int
 
 
-class AiInsight(BaseModel):
-    category: str
-    priority: Literal["high", "medium", "low"]
-    insight: str
-    reasoning: str
-    actionable: str
-    confidence: float
-
-
-class AiRecommendation(BaseModel):
-    type: str
-    title: str
-    description: str
-    reasoning: str
-    priority: int
-    timeframe: str
-    difficulty: str
-    expectedOutcome: str
-
-
 class PersonalityProfile(BaseModel):
     eatingStyle: str
     motivation: str
-    challenges: List[str]
-    strengths: List[str]
-    preferences: List[str]
+    challenges: List[str] = Field(default_factory=list)
+    strengths: List[str] = Field(default_factory=list)
+    preferences: List[str] = Field(default_factory=list)
 
 
 class GeminiHealthAnalysis(BaseModel):
     """Same nested shape as gemini-health-ai.service.ts GeminiHealthAnalysis."""
 
     analysis: HealthAnalysis
-    exerciseRecommendations: List[ExerciseRecommendation]
-    foodRecommendations: List[FoodRecommendation]
-    weeklyMealPlan: List[MealPlan]
-    aiInsights: List[AiInsight]
-    aiRecommendations: List[AiRecommendation]
+    exerciseRecommendations: List[ExerciseRecommendation] = Field(default_factory=list)
+    foodRecommendations: List[FoodRecommendation] = Field(default_factory=list)
+    weeklyMealPlan: List[MealPlan] = Field(default_factory=list)
     personalityProfile: PersonalityProfile

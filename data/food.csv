@@ -11,3 +11,216 @@ food_id,name,calories,protein,carbs,fat,meal_type
 10,Apple,95,0,25,0,snack
 11,Almonds (30g),175,6,6,15,snack
 12,Protein shake,220,25,12,6,snack
+13,Avocado toast,320,10,32,18,breakfast
+14,Chia pudding,260,9,28,12,breakfast
+15,Banh mi trung (egg banh mi),420,18,45,18,breakfast
+16,Pho ga (lean),520,35,70,10,breakfast
+17,Miến gà (glass noodle chicken soup),480,30,72,7,breakfast
+18,Com tam suon nuong (lean),650,35,85,20,lunch
+19,Bun cha (lean pork),720,35,90,25,lunch
+20,Bun bo Hue (lean),680,32,80,24,lunch
+21,Goi cuon tom thit (3 rolls),420,24,55,12,lunch
+22,Bun thit nuong (lean),690,32,95,18,lunch
+23,Ca hoi ap chao + rau,520,38,20,30,dinner
+24,Com ga luoc + rau luoc,560,40,70,12,dinner
+25,Bo xao rau cu + com (portion),640,42,65,18,dinner
+26,Tofu curry + rice (portion),640,22,85,22,dinner
+27,Chicken salad (olive oil light),430,38,18,16,dinner
+28,Tom xao rau cu + mi (portion),610,32,78,16,dinner
+29,Cottage cheese + berries,220,20,18,6,snack
+30,Banana,105,1,27,0,snack
+31,Edamame (1 cup),190,17,15,8,snack
+32,Dark chocolate (20g),110,2,12,7,snack
+33,Orange,62,1,15,0,snack
+34,Boiled corn (1 medium),180,6,40,2,snack
+35,Roasted sweet potato (150g),135,2,31,0,snack
+36,Milk (250ml),150,8,12,8,snack
+37,Low-fat yogurt (170g),120,10,17,2,snack
+38,Peanut butter sandwich,420,16,45,20,snack
+39,Tuna sandwich (whole wheat),430,32,40,14,lunch
+40,Turkey wrap + veggies,410,30,42,12,lunch
+41,Lentil soup + bread,460,24,70,8,lunch
+42,Grilled salmon + quinoa,610,40,55,22,dinner
+43,Tofu vermicelli bowl,580,24,85,16,lunch
+44,Beef noodle salad (bun bo xao),720,35,95,22,lunch
+45,Sushi bowl (salmon),640,35,85,20,lunch
+46,Chicken breast + brown rice,560,45,60,12,dinner
+47,Stir-fried vegetables + eggs,420,22,30,22,dinner
+48,Minced pork lettuce wraps,480,30,25,28,dinner
+49,Shrimp fried rice (light oil),650,28,90,20,dinner
+50,Vegetable soup + tofu,280,18,28,10,dinner
+51,Overnight oats (berries),360,14,55,10,breakfast
+52,Peanut-free granola yogurt parfait,340,18,42,10,breakfast
+53,Whole wheat pancake (2) + honey,420,10,78,9,breakfast
+54,Chicken congee (1 bowl),380,22,55,7,breakfast
+55,Tofu scramble + spinach,300,20,18,16,breakfast
+56,Vegetable omelet (2 eggs),330,22,12,22,breakfast
+57,Sourdough toast + cottage cheese,310,18,34,10,breakfast
+58,Brown rice porridge + fish,440,28,58,10,breakfast
+59,Bun rieu cua (light),560,28,78,16,breakfast
+60,Banh cuon (portion),520,22,80,12,breakfast
+61,Chicken burrito bowl,640,42,78,18,lunch
+62,Beef burrito bowl,720,40,80,26,lunch
+63,Vegetarian Buddha bowl,560,20,78,18,lunch
+64,Chickpea salad wrap,520,18,70,16,lunch
+65,Grilled chicken sandwich,610,42,62,18,lunch
+66,Turkey quinoa salad,540,35,55,18,lunch
+67,Soba noodles + tofu,620,26,90,14,lunch
+68,Beef pho (lean),650,35,85,18,lunch
+69,Chicken fried noodles (light oil),680,32,95,18,lunch
+70,Shrimp rice paper salad,520,26,70,14,lunch
+71,Chicken teriyaki + rice,720,40,95,18,dinner
+72,Beef stir-fry + rice,780,42,90,26,dinner
+73,Steamed fish + ginger + rice,620,38,75,14,dinner
+74,Tofu + mixed vegetables + rice,650,24,95,18,dinner
+75,Chicken soup + bread,520,32,58,14,dinner
+76,Tomato beef stew + potatoes,680,40,60,24,dinner
+77,Vegetable curry + naan,720,18,105,22,dinner
+78,Seafood hotpot (light),560,36,45,18,dinner
+79,Chicken kebab plate,640,45,55,18,dinner
+80,Turkey meatballs + pasta,720,42,85,20,dinner
+81,Protein bar (50g),220,20,22,7,snack
+82,Rice cakes (2) + jam,160,2,38,1,snack
+83,Carrot sticks + hummus,180,6,20,9,snack
+84,Apple slices + cheese,240,10,24,12,snack
+85,Trail mix (30g),170,5,14,11,snack
+86,Boiled eggs (2),150,12,1,10,snack
+87,Tuna salad cup,190,20,6,8,snack
+88,Greek yogurt (plain),150,15,8,5,snack
+89,Soy milk (250ml),120,7,10,4,snack
+90,Fresh mango (200g),130,1,34,0,snack
+91,Banh mi ga xe (chicken banh mi),620,32,75,22,lunch
+92,Bun ga nuong (grilled chicken vermicelli),720,36,98,20,lunch
+93,Bun ca (fish vermicelli soup),580,30,78,14,lunch
+94,Com chay thap cam (vegetarian),680,20,105,18,lunch
+95,Mi quang ga (light),650,32,90,18,lunch
+96,Banh xeo (2 small),720,28,70,36,lunch
+97,Goi ga bap cai,420,32,18,22,lunch
+98,Bun mam (light),700,30,92,26,lunch
+99,Hu tieu nam vang (lean),680,32,92,18,lunch
+100,Com bo luc lac (portion),760,40,80,28,lunch
+101,Chicken breast + sweet potato,520,45,45,14,dinner
+102,Ground turkey chili (1 bowl),560,38,55,18,dinner
+103,Tofu miso soup + rice,520,22,75,12,dinner
+104,Shrimp + quinoa + veggies,560,40,55,14,dinner
+105,Salmon + brown rice + greens,720,45,70,28,dinner
+106,Beef steak + salad (light),620,48,18,34,dinner
+107,Chicken fajitas (no tortilla),520,42,22,24,dinner
+108,Chicken fajitas (with tortillas),720,42,75,22,dinner
+109,Pork loin + steamed veggies + rice,680,42,75,20,dinner
+110,Vegetable stir-fry + noodles,660,18,105,18,dinner
+111,Papaya (250g),110,1,28,0,snack
+112,Watermelon (300g),90,2,22,0,snack
+113,Pineapple (250g),125,1,33,0,snack
+114,Guava (200g),140,5,30,1,snack
+115,Dragon fruit (250g),150,3,35,1,snack
+116,Boiled peanuts (50g),290,13,10,24,snack
+117,Roasted chickpeas (40g),180,8,26,5,snack
+118,Cucumber salad (vinegar),60,2,10,2,snack
+119,Seaweed snack (pack),50,1,5,3,snack
+120,Protein pudding,200,20,18,6,snack
+121,Breakfast burrito (egg + chicken),620,35,55,28,breakfast
+122,Tofu banh mi (vegetarian),580,22,78,18,breakfast
+123,Sticky rice + chicken (small),650,28,90,18,breakfast
+124,Black bean porridge (1 bowl),420,18,75,6,breakfast
+125,Sweet potato oatmeal,380,10,72,8,breakfast
+126,Spinach banana smoothie,320,12,55,8,breakfast
+127,Protein oats (whey),420,30,55,10,breakfast
+128,Bread + peanut butter + banana,520,16,65,20,breakfast
+129,Chicken sandwich (whole grain),560,40,55,14,breakfast
+130,Vegetable fried rice (light),620,14,98,16,breakfast
+131,"Sushi roll (tuna, 8 pcs)",520,28,78,12,lunch
+132,"Sushi roll (avocado, 8 pcs)",480,10,80,14,lunch
+133,"Sushi roll (shrimp, 8 pcs)",540,26,80,14,lunch
+134,Poke bowl (tuna),680,40,85,18,lunch
+135,Poke bowl (tofu),620,24,90,16,lunch
+136,Chicken Caesar wrap,640,38,55,26,lunch
+137,Beef kebab wrap,720,38,70,30,lunch
+138,Vegetable minestrone + bread,520,18,82,10,lunch
+139,Tomato basil pasta + chicken,760,42,95,20,lunch
+140,Stir-fried tofu + rice,620,24,90,16,lunch
+141,Chicken ramen (light),680,35,92,20,dinner
+142,Beef ramen (light),760,38,92,28,dinner
+143,Seafood ramen (light),700,36,88,22,dinner
+144,Udon soup + chicken,640,32,95,14,dinner
+145,Fried tofu + vegetable soup,520,22,55,22,dinner
+146,Chicken stir-fry + quinoa,620,45,55,18,dinner
+147,Beef stir-fry + quinoa,700,48,55,26,dinner
+148,Salmon teriyaki + veggies,560,42,28,30,dinner
+149,Sardines + rice + salad,620,32,70,22,dinner
+150,Vegetable spaghetti + tofu,680,24,105,16,dinner
+151,Strawberries (250g),80,2,19,0,snack
+152,Blueberries (200g),115,1,28,1,snack
+153,Grapes (200g),135,1,35,0,snack
+154,Pear (1 medium),100,1,27,0,snack
+155,Kiwi (2),90,2,22,1,snack
+156,Boiled edamame (150g),210,18,18,10,snack
+157,Tofu pudding (portion),180,12,18,8,snack
+158,Baked tofu cubes (150g),240,24,8,14,snack
+159,Chicken jerky (40g),160,26,6,3,snack
+160,Soy yogurt (170g),130,7,16,4,snack
+161,Beef stew + rice,780,38,95,26,lunch
+162,Chicken stew + rice,720,40,95,18,lunch
+163,Vegetable stew + rice,680,18,110,14,lunch
+164,Grilled pork + rice,760,38,90,26,lunch
+165,Grilled chicken + rice noodles,720,40,95,18,lunch
+166,Tofu + rice noodles,660,24,105,14,lunch
+167,Chicken curry + rice,780,38,105,22,lunch
+168,Beef curry + rice,840,40,105,30,lunch
+169,Shrimp curry + rice,760,34,105,20,lunch
+170,Salad bowl + chickpeas,520,18,70,16,lunch
+171,Stuffed bell pepper (beef),560,35,45,22,dinner
+172,Stuffed bell pepper (turkey),520,38,40,16,dinner
+173,Stuffed bell pepper (tofu),480,24,55,14,dinner
+174,Chicken stir-fry + broccoli,520,45,18,26,dinner
+175,Beef stir-fry + broccoli,620,48,18,34,dinner
+176,Tofu stir-fry + broccoli,520,28,30,26,dinner
+177,Chicken roasted vegetables,560,45,35,24,dinner
+178,Beef roasted vegetables,640,48,35,30,dinner
+179,Tofu roasted vegetables,540,28,45,24,dinner
+180,Seafood roasted vegetables,600,38,35,24,dinner
+181,Banana oats cookie (2),260,6,40,8,snack
+182,Rice porridge cup,180,4,38,2,snack
+183,Chicken salad cup,220,22,10,10,snack
+184,Mini tofu salad cup,180,14,12,10,snack
+185,Protein smoothie (milk),320,26,35,8,snack
+186,Protein smoothie (soy),300,22,35,6,snack
+187,Whole wheat crackers (40g),180,4,28,6,snack
+188,Cashews (30g),170,5,9,13,snack
+189,Walnuts (30g),200,5,4,20,snack
+190,Pumpkin seeds (30g),170,9,5,14,snack
+191,Chicken fried egg rice,720,32,92,24,dinner
+192,Beef fried egg rice,780,35,92,30,dinner
+193,Tofu fried egg rice,700,24,95,26,dinner
+194,Shrimp fried egg rice,740,30,95,24,dinner
+195,Vegetable fried egg rice,680,18,98,24,dinner
+196,Chicken noodle soup (light),520,34,70,10,dinner
+197,Beef noodle soup (light),620,35,75,18,dinner
+198,Tofu noodle soup (light),560,24,80,14,dinner
+199,Shrimp noodle soup (light),580,30,78,14,dinner
+200,Vegetable noodle soup (light),540,18,88,12,dinner
+201,Protein pancakes (2) + honey,520,22,70,16,breakfast
+202,Egg omelet + toast,430,24,38,18,breakfast
+203,Pho bo (lean),680,35,85,18,breakfast
+204,Bun rieu cua,620,30,78,16,breakfast
+205,Chicken banh mi (lean),560,32,72,16,breakfast
+206,Tuna avocado toast,480,26,42,22,breakfast
+207,Tofu miso soup + rice,520,22,78,12,lunch
+208,Chicken quinoa bowl,640,42,70,18,lunch
+209,Beef rice bowl (lean),720,45,85,20,lunch
+210,Shrimp poke bowl,660,38,80,18,lunch
+211,Lentil curry + rice,680,24,105,16,lunch
+212,Vegetarian burrito bowl,700,22,110,18,lunch
+213,Salmon rice bowl,740,40,85,28,lunch
+214,Chicken soba noodles,620,36,80,14,dinner
+215,Beef stir-fry + rice,760,45,88,24,dinner
+216,Tofu stir-fry + rice,680,26,92,22,dinner
+217,Shrimp stir-fry + rice,720,34,92,22,dinner
+218,Chicken pasta (light sauce),680,40,85,16,dinner
+219,Beef pasta (light sauce),760,45,85,22,dinner
+220,Tofu pasta (light sauce),640,26,90,18,dinner
+221,Greek yogurt + granola,420,22,55,12,snack
+222,Cottage cheese + fruit,320,24,35,6,snack
+223,Peanut butter toast,360,12,38,18,snack
+224,Boiled eggs (2) + fruit,260,14,22,12,snack
+225,Edamame (150g),240,22,20,8,snack
